@@ -4,7 +4,7 @@ export default [
     'bg': 'linear-gradient(to bottom right, rgba(86,171,47,1), rgba(168,224,99,1))',
     'img': 'https://s3-us-west-2.amazonaws.com/beb-ui/various.png',
     'technology': 'JS, React, Node, AWS, Lambdas, Git, Slack',
-    'marginTop': '20px;'
+    'marginTop': '20px'
   },
   {
     'description': 'Common: a website creation, email marketing & automation, book marketing, and courseware platform.',
